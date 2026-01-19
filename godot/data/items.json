@@ -1,0 +1,19 @@
+[
+    {
+        "id": "herb_001",
+        "name": "草藥",
+        "description": "路邊常見的草藥，有些微止血效果。",
+        "type": "consumable",
+        "effect": {
+            "hp": 20
+        },
+        "price": 10
+    },
+    {
+        "id": "book_intro",
+        "name": "入門心法",
+        "description": "記載基礎吐納之法的破舊冊子。",
+        "type": "key_item",
+        "price": 0
+    }
+]

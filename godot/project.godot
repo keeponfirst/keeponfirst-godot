@@ -19,6 +19,7 @@ config/features=PackedStringArray("4.3", "GL Compatibility")
 GameState="*res://scripts/core/GameState.gd"
 SceneRouter="*res://scripts/core/SceneRouter.gd"
 FeatureFlags="*res://scripts/core/FeatureFlags.gd"
+DataLoader="*res://scripts/data/DataLoader.gd"
 
 [display]
 

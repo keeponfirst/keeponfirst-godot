@@ -1,0 +1,11 @@
+{
+  "npc_giver_talk": [
+    {
+      "condition": {},
+      "commands": [
+        { "cmd": "say", "text": "Take this gold." },
+        { "cmd": "add_money", "amount": 100 }
+      ]
+    }
+  ]
+}
