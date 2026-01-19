@@ -1,9 +1,9 @@
 # Project Tasks: Godot Wuxia RPG PoC
 
 ## Phase 0: Project Setup (Gate S0)
-- [ ] **Project Init**: 建立 `godot/` 專案，設定 Main Scene 為 `boot.tscn`。 <!-- id: 0 -->
-- [ ] **Input & Autoloads**: 設定 Input Map (`move_*`, `interact`...) 與 Autoloads (`GameState`, `SceneRouter`). <!-- id: 1 -->
-- [ ] **Boot Check**: `boot.tscn` 顯示文字並自動跳轉 `town.tscn`。 <!-- id: 2 -->
+- [x] **Project Init**: 建立 `godot/` 專案，設定 Main Scene 為 `boot.tscn`。 <!-- id: 0 -->
+- [x] **Input & Autoloads**: 設定 Input Map (`move_*`, `interact`...) 與 Autoloads (`GameState`, `SceneRouter`). <!-- id: 1 -->
+- [x] **Boot Check**: `boot.tscn` 顯示文字並自動跳轉 `town.tscn`。 <!-- id: 2 -->
     - 驗收：按 F5 直接進入 Town（或經過 Boot）。檢查 Autoloads 是否生效。
 
 ## Phase 1: Gameplay Gate (可走可互動)
